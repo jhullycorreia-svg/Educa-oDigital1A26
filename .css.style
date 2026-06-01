@@ -7,7 +7,7 @@ header {
     padding: 16px;
 }
 main{
-    background-color: #FFFFFF;
+    background-color: #981111;
     color: #183C63;
 }
 img {
