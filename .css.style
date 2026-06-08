@@ -1,16 +1,16 @@
 header {
-    background-color: #183C63;
-    color: #FFFFFF;
-    text-align: center;
-    max-width: 800px;
-    margin: 0 auto;
-    padding: 16px;
+background-color: #72acea;
+color: #FFFFFF;
+text-align: center;
+max-width: 800px;
+margin: 0 auto;
+padding: 16px;
 }
-main{
-    background-color: #981111;
-    color: #183C63;
-}
+main {
+background-color: #e35c5c;
+color: #104278;
+} 
 img {
 width: 80px;
 height: 80px;
- }
+}
