@@ -1,5 +1,5 @@
 header {
-background-color: rgb(26, 222, 226);
+background-color: rgb(26, 56, 226);
 color: #FFFFFF;
 text-align: center;
 max-width: 800px;
@@ -8,7 +8,7 @@ padding: 16px;
 }
 main {
 background-color: #FFFFFF;
-color: #183C63;
+color: #64a0e0;
 display: flex;
 }
 img {
@@ -19,8 +19,8 @@ height: 250px;
 font-weight: bold;
 
 main {
-    background-color: #09b1e4;
-    color: #000000;
+    background-color: #8de468;
+    color: #d61e1e;
   max-width: 800px;
 margin: 0 auto;
 padding: 16px;
