@@ -1,5 +1,5 @@
 header {
-background-color: #72acea;
+background-color: #04468d;
 color: #FFFFFF;
 text-align: center;
 max-width: 800px;
@@ -8,7 +8,7 @@ padding: 16px;
 }
 main {
 background-color: #e35c5c;
-color: #104278;
+color: #880a65;
 } 
 img {
 width: 80px;
